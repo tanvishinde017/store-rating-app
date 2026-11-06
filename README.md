@@ -7,7 +7,7 @@ hashing, role-based authorization and responsive CSS.
 ## Features 
 
 | Role | Capabilities | 
-| --- | --- | 
+| --- | --- |  
 | **USER** | Sign up, log in, browse and search  stores, submit or update a 1-5 rating, review their own rating history |
 | **OWNER** | Everything a user can do, plus create and delete their own stores and view the reviews left on them |
 | **ADMIN** | Dashboard totals, full user management (search, filter, sort, paginate, create, change role, delete), and oversight of every store |
