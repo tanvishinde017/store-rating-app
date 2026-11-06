@@ -4,7 +4,7 @@ A full-stack store rating platform built with **React + Vite** (frontend) and
 **Express + MySQL** (backend), featuring JWT authentication, bcrypt password
 hashing, role-based authorization and responsive CSS.  
  
-## Features
+## Features 
 
 | Role | Capabilities | 
 | --- | --- |
